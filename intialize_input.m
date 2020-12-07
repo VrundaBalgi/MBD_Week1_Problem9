@@ -23,3 +23,12 @@ Tm = 0.1;
 
 %Applied Voltage
 V = 30;
+
+%Angular position
+w = 1;
+
+Va = 30;
+Vb = 0;
+Vc = 0;
+
+
